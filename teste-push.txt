@@ -1,3 +1,8 @@
 Arquivo teste
 teste de envio para o github
 editado pelo github...
+linha adicionada pelo nano
+.
+..
+...
+Teste de envio
